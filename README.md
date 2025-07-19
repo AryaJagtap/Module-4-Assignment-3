@@ -1,6 +1,6 @@
 # Module-4-Assignment-3
 
-## ASSIGNMENT 2: Control Structures in Python
+## ASSIGNMENT 3: Functions & Modules in Python
 
 This repository contains solutions for **Assignment 3** from Module 4 of the Python course.
 
